@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/PlushSalmon/goit-js-hw-09.git",
+  "homepage": "https://PlushSalmon.github.io/goit-js-hw-09/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09.git/"
